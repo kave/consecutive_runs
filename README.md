@@ -7,6 +7,6 @@ Example: [1, 2, 3, 5, 10, 9, 8, 9, 10, 11, 7, 8, 7] returns [0, 4, 6, 7]
 
 
 # USAGE
-`python integer_consecutive_runs.py [1, 2, 3, 5, 10, 9, 8, 9, 10, 11, 7, 8, 7]`
+`python integer_consecutive_runs.py "[1, 2, 3, 5, 10, 9, 8, 9, 10, 11, 7, 8, 7]"`
  - Output
   - `[Result]: [0, 4, 6, 7]`
